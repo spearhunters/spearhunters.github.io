@@ -1,0 +1,11 @@
+- menu_name: "Buyers Guides"
+
+- name: "Beginners Starter Set"
+  title: "Beginners Starter Set"
+  url: "/buyers-guide/spearfishing-equipment-beginners/"
+- name: "Wetsuit Buyers Guide"
+  title: "Wetsuit Buyers Guide"
+  url: "/buyers-guide/buying-a-wetsuit/"
+- name: "Speargun Buyers Guide"
+  title: "Speargun Buyers Guide"
+  url: "/buyers-guide/buying-a-speargun/"

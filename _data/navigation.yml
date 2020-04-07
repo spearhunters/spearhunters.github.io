@@ -1,0 +1,27 @@
+- title: "2020 Awards"
+  side: left
+  dropdown:
+  - title: "Best Spearguns"
+    url: "/awards/best-spearguns-2020/"
+  - title: "Best Wetsuits"
+    url: "/awards/best-spearfishing-wetsuits-2020/"
+  - title: "Best Fins"
+    url: "/awards/best-spearfishing-fins-2020/"
+
+- title: Equipment Guides
+  side: left
+  dropdown:
+  - title: "Beginners Starter Set"
+    url: "/buyers-guide/spearfishing-equipment-beginners/"
+  - title: "Wetsuit Buyers Guide"
+    url: "/buyers-guide/buying-a-wetsuit/"
+  - title: "Speargun Buyers Guide"
+    url: "/buyers-guide/buying-a-speargun/"
+
+- title: "About"
+  url: "/about"
+  side: right
+
+- title: "Contact"
+  url: "/contact/"
+  side: right
