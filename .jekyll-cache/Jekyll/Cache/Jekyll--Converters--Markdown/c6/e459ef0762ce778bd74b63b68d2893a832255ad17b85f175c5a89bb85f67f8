@@ -1,0 +1,89 @@
+I"–<!--more-->
+
+<div class="row blogpost awards">
+<div class="medium-4 medium-push-8 columns">
+    <div class="panel radius">
+      <p id="toc"><strong>Table of Contents</strong></p>
+<ul id="markdown-toc">
+  <li><a href="#best-for-beginners" id="markdown-toc-best-for-beginners">Best for Beginners</a></li>
+  <li><a href="#best-for-intermediate" id="markdown-toc-best-for-intermediate">Best for Intermediate</a></li>
+  <li><a href="#best-value-for-money" id="markdown-toc-best-value-for-money">Best Value for Money</a></li>
+  <li><a href="#cheapest" id="markdown-toc-cheapest">Cheapest</a></li>
+</ul>
+
+    </div>
+  </div><!-- /.medium-4.columns -->
+
+
+
+<div class="medium-8 medium-pull-4 columns">
+
+    <h2 id="best-for-beginners">Best for Beginners</h2>
+    <div class="box text-center">
+   <img class="product" src="http://localhost:4000/assets/img/salvimar-nat-5mm-wetsuit.jpg" />
+</div>
+
+    <div class="ribbon">
+  Salvimar N.A.T
+  <i></i>
+  <i></i>
+  <i></i>
+  <i></i>
+</div>
+
+    <p class="gearname text-center">$180</p>
+    <p>This is a very nice suit to start out with. It is made from a very stretchy neoprene which will make you feel super comfortable in the water. As a beginner, the last thing you need is to feel constricted while diving.</p>
+
+    <h2 id="best-for-intermediate">Best for Intermediate</h2>
+    <div class="box text-center">
+   <img class="product" src="http://localhost:4000/assets/img/omer-holostone-wetsuit.jpg" />
+</div>
+
+    <div class="ribbon">
+  Omer Holostone
+  <i></i>
+  <i></i>
+  <i></i>
+  <i></i>
+</div>
+
+    <p class="gearname text-center">$380</p>
+    <p>This is a top of the line, off-the-shelf, wetsuit. It is manufactured under the highest standards for its class. It is warm, durable and worn by many of the professionals.</p>
+
+    <h2 id="best-value-for-money">Best Value for Money</h2>
+    <div class="box text-center">
+   <img class="product" src="http://localhost:4000/assets/img/mako-yakomoto-suit-2.jpg" />
+</div>
+
+    <div class="ribbon">
+  Mako Yamamoto Camo
+  <i></i>
+  <i></i>
+  <i></i>
+  <i></i>
+</div>
+
+    <p class="gearname text-center">$230</p>
+    <p>It is hard to go wrong with this suit. It is sold directly by the manufacture, so you will not be paying any distribution costs. It is made from the gold-standard Yamamoto neoprene and includes a built in knife pocket. It is a great all-around suit at a great price point.</p>
+
+    <h2 id="cheapest">Cheapest</h2>
+    <div class="box text-center">
+   <img class="product" src="http://localhost:4000/assets/img/LIFURIOUS-3MM-Scuba-Diving-Suits-for-Men-2-Pieces-Long-Sleeve-Keep-Warm-Wetsuits-Spearfishing-Rash.jpg" />
+</div>
+
+    <div class="ribbon">
+  Lifurious (Ali Express)
+  <i></i>
+  <i></i>
+  <i></i>
+  <i></i>
+</div>
+
+    <p class="gearname text-center">$60</p>
+    <p>This is hardly a spearfishing wetsuit, but for such a low cost it will still be included in this article. It is a hooded, two-piece wetsuit, with farmer john bottoms. It will keep you much warmer than a surfing wetsuit and is practically indestructible. It comes in only one thickness and is not open-cell, but it is cheap as hell and a good way to get started in the sport.</p>
+
+  </div><!-- /.medium-8.columns -->
+</div>
+<!-- /.row -->
+
+:ET
