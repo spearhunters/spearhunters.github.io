@@ -128,6 +128,12 @@ ul.should-know {
   }
 }
 
+@media #{$small-only} {
+  .hide-small {
+    display: none;
+  }
+}
+
 .iframe-container{
   position: relative;
   width: 100%;
