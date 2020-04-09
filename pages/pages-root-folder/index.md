@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth-nowrapper
 subheadline:  "Gear, Guns, and Accessories"
-title:  "Spear Hunters: The Authority on Spearfishing Equipment"
+title:  "The Authority on Spearfishing Equipment"
 teaser: "Spear Hunters is your trusted guide to the world of spearfishing equipment. Our experienced Spearos are here to advise you on the perfect gear for your situation. Need some advice? <a href='#contact-us'>Contact us</a> using the form below."
 breadcrumb: false
 permalink: /
@@ -30,7 +30,7 @@ image:
 
 
     <div class="row">
-          <div class="large-4 columns medium-4">
+          <div class="large-4 columns medium-6">
               <div class="box">
                  <img src="assets/img/sample-gun.jpeg">
               </div>
@@ -45,7 +45,7 @@ image:
 
               <p class="gearname text-center">Spear One</p>
           </div>
-          <div class="large-4 columns medium-4">
+          <div class="large-4 columns medium-6">
             <div class="box">
                <img src="assets/img/sample-gun.jpeg">
             </div>
@@ -60,7 +60,7 @@ image:
 
             <p class="gearname text-center">Speargun 2</p>
           </div>
-          <div class="large-4 columns medium-4">
+          <div class="large-4 columns medium-6 hide-medium">
             <div class="box">
                <img src="assets/img/sample-gun.jpeg">
             </div>
@@ -89,7 +89,7 @@ image:
 
 
     <div class="row">
-      <div class="large-4 columns medium-4">
+      <div class="large-4 columns medium-6">
           <div class="box">
              <img src="assets/img/salvimar-nat-suit.jpg">
           </div>
@@ -104,7 +104,7 @@ image:
 
           <p class="gearname text-center">Salvimar N.A.T</p>
       </div>
-      <div class="large-4 columns medium-4">
+      <div class="large-4 columns medium-6">
         <div class="box">
            <img src="assets/img/holostone-suit.jpg">
         </div>
@@ -119,7 +119,7 @@ image:
 
         <p class="gearname text-center">Omer Holostone</p>
       </div>
-      <div class="large-4 columns medium-4">
+      <div class="large-4 columns medium-6 hide-medium">
         <div class="box">
            <img src="assets/img/mako-yakomoto-suit-2.jpg">
         </div>
@@ -148,7 +148,7 @@ image:
 
 
     <div class="row">
-      <div class="large-4 columns medium-4">
+      <div class="large-4 columns medium-6">
           <div class="box">
              <img src="assets/img/rob_allen_scorpia_fins.jpg">
           </div>
@@ -163,7 +163,7 @@ image:
 
           <p class="gearname text-center">Rob Allen Scorpia</p>
       </div>
-      <div class="large-4 columns medium-4">
+      <div class="large-4 columns medium-6">
         <div class="box">
            <img src="assets/img/Mares-Razor-Matrix-fins.png">
         </div>
@@ -178,7 +178,7 @@ image:
 
         <p class="gearname text-center">Mares Razor Matrix</p>
       </div>
-      <div class="large-4 columns medium-4">
+      <div class="large-4 columns medium-6 hide-medium">
         <div class="box">
            <img src="assets/img/mako-freediving-fins.jpg">
         </div>
@@ -234,7 +234,10 @@ image:
   </div>
 
   <div class="row t60">
-    <div class="large-6 small-push-12 columns">
+    <div class="large-push-6 large-6 columns">
+        <img src="assets/img/speargun.jpg">
+    </div>
+    <div class="large-pull-6 large-6 columns">
       <h3>When buying a Speargun, always consider:</h3>
       <ul class="should-know">
         <li>Diving environment</li>
@@ -242,9 +245,6 @@ image:
         <li>Band type</li>
       </ul>
       <a href="{{site.url}}{% post_url 2020-03-30-buying-a-speargun %}">Read speargun buyers guide</a>
-    </div>
-    <div class="large-6 small-pull-12 columns">
-        <img src="assets/img/speargun.jpg">
     </div>
   </div>
 

@@ -132,6 +132,29 @@ ul.should-know {
   .hide-small {
     display: none;
   }
+
+  .box {
+    text-align: center;
+    max-width: 300px;
+    margin: auto;
+  }
+}
+
+@media #{$medium-only} {
+  .hide-medium {
+    display: none;
+  }
+}
+
+@media #{$medium-down} {
+  .buyers-guides {
+    text-align: center;
+  }
+
+  ul.should-know {
+    max-width: 300px;
+    margin: auto;
+  }
 }
 
 .iframe-container{
