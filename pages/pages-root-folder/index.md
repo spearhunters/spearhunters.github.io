@@ -6,6 +6,7 @@ teaser: "Spear Hunters is your trusted guide to the world of spearfishing equipm
 breadcrumb: false
 permalink: /
 header:
+    video_fullwidth: "test"
     image_fullwidth: "/VA90oo.gif"
 image:
     thumb: "unsplash_brooklyn-bridge-thumb.jpg"
