@@ -167,6 +167,11 @@ ul.should-know {
   }
 }
 
+#text-logo img {
+  width: 200px;
+  height: inherit;
+}
+
 @media #{$small-only} {
   .hide-small {
     display: none;
