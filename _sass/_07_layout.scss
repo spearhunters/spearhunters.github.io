@@ -78,14 +78,17 @@ body.video cite { color: #fff; }
   }
 }
 /* Default hide the video on all devices */
-#video{display:none}
+#video, #videoBlock svg{
+  display:none
+
+}
 
 /* Default display the image to replace the video on all devices */
 #videosubstitute{display:block; width:100%;height:auto}
 
 /* Medium Devices, Desktops */
 @media only screen and (min-width : 992px) {
-  #video{display:block;}
+  #video, #videoBlock svg{display:block;}
   #videosubstitute{display:none};
   #videoDiv { height: 400px;}
 }
@@ -99,6 +102,32 @@ body.video cite { color: #fff; }
 .videoClick {text-align:center}
 .videoClick a{color:white;background-color:rgba(241, 241, 241, 0.25);font-size: 1.7em;cursor:pointer;cursor:hand}
 
+#videoBlock{
+  svg {
+    width: 100%;
+    position:absolute;
+    top: 0;
+    left: 0; // needed for FF, Safari, Edge
+    height: 100%;
+  }
+  svg text {
+    font-family: Biko, sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 45px;
+
+    &.sm {
+      font-size: 40px;
+    }
+  }
+  svg rect {
+    fill: white;
+  }
+  svg > rect {
+      -webkit-mask: url(#mask);
+      mask: url(#mask);
+  }
+}
 
 /* Search
 ------------------------------------------------------------------- */
