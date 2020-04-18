@@ -19,9 +19,11 @@
     &lt;div class=&quot;panel radius&quot;&gt;
       &lt;p id=&quot;toc&quot;&gt;&lt;strong&gt;Table of Contents&lt;/strong&gt;&lt;/p&gt;
 &lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#best-gun-of-2020&quot; id=&quot;markdown-toc-best-gun-of-2020&quot;&gt;Best Gun of 2020&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#best-budget-gun&quot; id=&quot;markdown-toc-best-budget-gun&quot;&gt;Best Budget Gun&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#best-best-mid-range-gun&quot; id=&quot;markdown-toc-best-best-mid-range-gun&quot;&gt;Best Best Mid-Range Gun&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#best-wooden-gun&quot; id=&quot;markdown-toc-best-wooden-gun&quot;&gt;Best Wooden Gun&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#best-intermediate-gun&quot; id=&quot;markdown-toc-best-intermediate-gun&quot;&gt;Best Intermediate Gun&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#best-pneumatic-gun&quot; id=&quot;markdown-toc-best-pneumatic-gun&quot;&gt;Best Pneumatic Gun&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
     &lt;/div&gt;
@@ -30,6 +32,34 @@
 
 
 &lt;div class=&quot;medium-8 medium-pull-4 columns&quot;&gt;
+
+    &lt;h2 id=&quot;best-gun-of-2020&quot;&gt;Best Gun of 2020&lt;/h2&gt;
+    &lt;div class=&quot;product-rating-wrapper&quot;&gt;
+    &lt;div class=&quot;award-wrapper&quot;&gt;
+      &lt;div class=&quot;box text-center&quot;&gt;
+         &lt;img class=&quot;product&quot; src=&quot;http://localhost:4000/assets/img/euro1_1_1_1_1_1.jpg&quot; /&gt;
+      &lt;/div&gt;
+
+      &lt;div class=&quot;ribbon&quot;&gt;
+        Riffe Euro Series
+        &lt;i&gt;&lt;/i&gt;
+        &lt;i&gt;&lt;/i&gt;
+        &lt;i&gt;&lt;/i&gt;
+        &lt;i&gt;&lt;/i&gt;
+      &lt;/div&gt;
+
+      &lt;p class=&quot;gearname text-center&quot;&gt;&lt;/p&gt;
+    &lt;/div&gt;
+
+    &lt;ul class=&quot;gear-ratings&quot;&gt;
+      &lt;li&gt;&lt;strong&gt;Price:&lt;/strong&gt;&lt;span&gt; $550-$650&lt;/span&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;Silent &amp;amp; Powerful&lt;/strong&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;Great Accuracy&lt;/strong&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;Neutrally buoyant&lt;/strong&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;Laminated teak&lt;/strong&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/div&gt;
+    &lt;p&gt;The Riffe Euro is the gold standard of spearguns and for good reason! With its laminated teak construction, it is durable and neutrally buoyant. It is a simple gun, but it is perfect. It is powerful and accurate while still being silent. With a company like Riffe it is hard to go wrong and this is their flagship model.&lt;/p&gt;
 
     &lt;h2 id=&quot;best-budget-gun&quot;&gt;Best Budget Gun&lt;/h2&gt;
     &lt;div class=&quot;product-rating-wrapper&quot;&gt;
@@ -86,7 +116,7 @@
 &lt;/div&gt;
     &lt;p&gt;Rob Allen is a household name in the spearfishing scene. It has earned its notoriety by consistently making quality products with the spearo in mind. The Tuna line of rail guns is you next step up from entry-level aluminum guns. They manufacture their barrels out of Vecta aluminum, which is a very rigid alloy. This stiffness results in maximum transfer of energy to the shaft and allows for pin-point long-range shots. It comes with a shaft that stands up to maximum abuse and the flopper is extremely reliable. There is nothing worse than tagging a fish, only to realize the flopper did not open and the fish got away. The handle design is often a talking point of this gun. It offers one of the most comfortable grips.&lt;/p&gt;
 
-    &lt;h2 id=&quot;best-wooden-gun&quot;&gt;Best Wooden Gun&lt;/h2&gt;
+    &lt;h2 id=&quot;best-intermediate-gun&quot;&gt;Best Intermediate Gun&lt;/h2&gt;
     &lt;div class=&quot;product-rating-wrapper&quot;&gt;
   &lt;div class=&quot;award-wrapper&quot;&gt;
     &lt;div class=&quot;box text-center&quot;&gt;
@@ -114,6 +144,33 @@
   &lt;/ul&gt;
 &lt;/div&gt;
     &lt;p&gt;This gun is an absolute beauty! It is some of the highest quality you will find in a beginner gun. It is made out of solid African Mahogany, which makes it virtually indestructible. It comes in a wide variety of sizes, so you can get a hole hunter or a blue water gun with the same design. I would say the greatest part of this gun is its M8 trigger mechanism. It is very reliable and tough. This, combine with a super comfortable handle makes this gun an amazing option for this price point.&lt;/p&gt;
+
+    &lt;h2 id=&quot;best-pneumatic-gun&quot;&gt;Best Pneumatic Gun&lt;/h2&gt;
+    &lt;div class=&quot;product-rating-wrapper&quot;&gt;
+  &lt;div class=&quot;award-wrapper&quot;&gt;
+    &lt;div class=&quot;box text-center&quot;&gt;
+       &lt;img class=&quot;product&quot; src=&quot;http://localhost:4000/assets/img/mares-sten.jpg&quot; /&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;ribbon&quot;&gt;
+      Mares Sten
+      &lt;i&gt;&lt;/i&gt;
+      &lt;i&gt;&lt;/i&gt;
+      &lt;i&gt;&lt;/i&gt;
+      &lt;i&gt;&lt;/i&gt;
+    &lt;/div&gt;
+
+    &lt;p class=&quot;gearname text-center&quot;&gt;&lt;/p&gt;
+  &lt;/div&gt;
+
+  &lt;ul class=&quot;gear-ratings&quot;&gt;
+    &lt;li&gt;&lt;strong&gt;Price:&lt;/strong&gt;&lt;span&gt; $290&lt;/span&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;strong&gt;41cm Length&lt;/strong&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;strong&gt;Solid Construction&lt;/strong&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;strong&gt;Great for hole hunting&lt;/strong&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+    &lt;p&gt;The Mares Sten is a nifty little gun. It is the shortest available gun on the market making the ultimate hole hunting gun. You can even use this as a second gun strapped to your belt. It is a very solid pneumatic speargun and you can get one for a pretty low price.&lt;/p&gt;
 
   &lt;/div&gt;&lt;!-- /.medium-8.columns --&gt;
 &lt;/div&gt;

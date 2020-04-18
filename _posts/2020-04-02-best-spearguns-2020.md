@@ -26,6 +26,35 @@ categories:
 
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 
+## Best Gun of 2020
+  <div class="product-rating-wrapper">
+    <div class="award-wrapper">
+      <div class="box text-center">
+         <img class="product" src="{{site.url}}/{{site.urlimg}}/euro1_1_1_1_1_1.jpg">
+      </div>
+
+      <div class="ribbon">
+        Riffe Euro Series
+        <i></i>
+        <i></i>
+        <i></i>
+        <i></i>
+      </div>
+
+      <p class="gearname text-center"></p>
+    </div>
+
+    <ul class="gear-ratings">
+      <li><strong>Price:</strong><span> $550-$650</span></li>
+      <li><strong>Silent & Powerful</strong></li>
+      <li><strong>Great Accuracy</strong></li>
+      <li><strong>Neutrally buoyant</strong></li>
+      <li><strong>Laminated teak</strong></li>
+    </ul>
+  </div>
+  The Riffe Euro is the gold standard of spearguns and for good reason! With its laminated teak construction, it is durable and neutrally buoyant. It is a simple gun, but it is perfect. It is powerful and accurate while still being silent. With a company like Riffe it is hard to go wrong and this is their flagship model.
+
+
 ## Best Budget Gun
 <div class="product-rating-wrapper">
   <div class="award-wrapper">
@@ -82,7 +111,7 @@ If you are looking for a budget gun, look no further. The Mako Predator is going
 </div>
 Rob Allen is a household name in the spearfishing scene. It has earned its notoriety by consistently making quality products with the spearo in mind. The Tuna line of rail guns is you next step up from entry-level aluminum guns. They manufacture their barrels out of Vecta aluminum, which is a very rigid alloy. This stiffness results in maximum transfer of energy to the shaft and allows for pin-point long-range shots. It comes with a shaft that stands up to maximum abuse and the flopper is extremely reliable. There is nothing worse than tagging a fish, only to realize the flopper did not open and the fish got away. The handle design is often a talking point of this gun. It offers one of the most comfortable grips.
 
-## Best Wooden Gun
+## Best Intermediate Gun
 <div class="product-rating-wrapper">
   <div class="award-wrapper">
     <div class="box text-center">
@@ -110,6 +139,33 @@ Rob Allen is a household name in the spearfishing scene. It has earned its notor
   </ul>
 </div>
 This gun is an absolute beauty! It is some of the highest quality you will find in a beginner gun. It is made out of solid African Mahogany, which makes it virtually indestructible. It comes in a wide variety of sizes, so you can get a hole hunter or a blue water gun with the same design. I would say the greatest part of this gun is its M8 trigger mechanism. It is very reliable and tough. This, combine with a super comfortable handle makes this gun an amazing option for this price point.
+
+## Best Pneumatic Gun
+<div class="product-rating-wrapper">
+  <div class="award-wrapper">
+    <div class="box text-center">
+       <img class="product" src="{{site.url}}/{{site.urlimg}}/mares-sten.jpg">
+    </div>
+
+    <div class="ribbon">
+      Mares Sten
+      <i></i>
+      <i></i>
+      <i></i>
+      <i></i>
+    </div>
+
+    <p class="gearname text-center"></p>
+  </div>
+
+  <ul class="gear-ratings">
+    <li><strong>Price:</strong><span> $290</span></li>
+    <li><strong>41cm Length</strong></li>
+    <li><strong>Solid Construction</strong></li>
+    <li><strong>Great for hole hunting</strong></li>
+  </ul>
+</div>
+The Mares Sten is a nifty little gun. It is the shortest available gun on the market making the ultimate hole hunting gun. You can even use this as a second gun strapped to your belt. It is a very solid pneumatic speargun and you can get one for a pretty low price.
 
 
 

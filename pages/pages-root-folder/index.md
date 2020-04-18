@@ -75,7 +75,7 @@ header:
           </div>
 
           <div class="small-12 text-right">
-            <a href="#">See all the best spearguns</a>
+            <a href="{{site.url}}{% post_url 2020-04-02-best-spearguns-2020 %}">See all the best spearguns</a>
           </div>
         </div>
 
