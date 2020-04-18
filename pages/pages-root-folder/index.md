@@ -7,9 +7,6 @@ breadcrumb: false
 permalink: /
 header:
     video_fullwidth: "test"
-    image_fullwidth: "/VA90oo.gif"
-image:
-    thumb: "unsplash_brooklyn-bridge-thumb.jpg"
 ---
 
 <div class="row t90">
@@ -33,48 +30,48 @@ image:
     <div class="row">
           <div class="large-4 columns medium-6">
               <div class="box">
-                 <img src="assets/img/sample-gun.jpeg">
+                 <img src="assets/img/mako-speargun.jpg">
               </div>
 
               <div class="ribbon">
-                Best for Beginners
+                Best Budget Gun
                 <i></i>
                 <i></i>
                 <i></i>
                 <i></i>
               </div>
 
-              <p class="gearname text-center">Spear One</p>
+              <p class="gearname text-center">Mako Predator Pro</p>
           </div>
           <div class="large-4 columns medium-6">
             <div class="box">
-               <img src="assets/img/sample-gun.jpeg">
+               <img src="assets/img/rob-allen-tuna.png">
             </div>
 
             <div class="ribbon">
-              Best for Intermediate
+              Best Mid-Range Gun
               <i></i>
               <i></i>
               <i></i>
               <i></i>
             </div>
 
-            <p class="gearname text-center">Speargun 2</p>
+            <p class="gearname text-center">Rob Allen Tuna</p>
           </div>
           <div class="large-4 columns medium-6 hide-medium">
             <div class="box">
-               <img src="assets/img/sample-gun.jpeg">
+               <img src="assets/img/mares-sten.jpg">
             </div>
 
             <div class="ribbon">
-              Best Value for Money
+              Best Pneumatic Gun
               <i></i>
               <i></i>
               <i></i>
               <i></i>
             </div>
 
-            <p class="gearname text-center">Speargun 3</p>
+            <p class="gearname text-center">Mares Sten</p>
           </div>
 
           <div class="small-12 text-right">
