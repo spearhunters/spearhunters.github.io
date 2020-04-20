@@ -187,8 +187,8 @@ ul.should-know {
 
 .top-bar {
   img {
-    height: 3.4rem;
-    max-height: 3.4rem;
+    height: 45px;
+    max-height: 45px;
   }
 
   #logo-link, #logo-link:hover {
@@ -196,10 +196,7 @@ ul.should-know {
   }
 }
 
-#text-logo img {
-  width: 200px;
-  height: inherit;
-}
+
 
 @media #{$small-only} {
   .hide-small {

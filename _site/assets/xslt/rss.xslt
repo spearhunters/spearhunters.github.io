@@ -108,7 +108,7 @@
       <li class="name">
       <h1 class="show-for-medium-down" id="text-logo">
         <a href="http://localhost:4000" class="">
-          <img src="http://localhost:4000/assets/img/spear-logo-5m.jpg" />
+          <img src="http://localhost:4000/assets/img/sh-logo-2.png" />
         </a>
       </h1>
     </li>
@@ -171,7 +171,7 @@
       </ul>
 
       <ul class="left">
-        <li class="hide-small hide-medium"><a href="/" id="logo-link"> <img src="http://localhost:4000/assets/img/spear-logo-5.jpg" /> </a></li>
+        <li class="hide-small hide-medium"><a href="/" id="logo-link"> <img src="http://localhost:4000/assets/img/sh-logo-2.png" /> </a></li>
         
 
               
